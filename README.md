@@ -56,8 +56,8 @@
  ````
 
 Результат:
-![](1.png)
-![](2.png)
+![](https://github.com/ppc-ntu-khpi/jexer-35-xxxx3423/blob/master/png/1.png.png?raw=true)
+![](https://github.com/ppc-ntu-khpi/jexer-35-xxxx3423/blob/master/png/2.png.png?raw=true)
 
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
 ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
